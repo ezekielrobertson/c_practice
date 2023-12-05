@@ -1,0 +1,2 @@
+
+    printf("Hello %s", name);
